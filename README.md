@@ -1,5 +1,5 @@
 # RoA-logbook
-#22-08-2023
+# 22-08-2023
 vi blev introduceret til node MCU og lidt c++ kode.
 
 # 25-08-2023
