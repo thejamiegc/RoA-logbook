@@ -16,4 +16,4 @@ Vi lærte i dag om knepper (buttons) og hvordan vi skal sætte en class op til a
 Vi fik arbejdet på vores ServoMotor, testet forskellige teorier og kom til sidst i mål med at få lavet en class der i sidste ende blev ret plug-and-play til fremtidigt brug hvilket var godt! - herudover fandt vi ud af at man kan læse den præcise position hvor "armen" på servoen og hvor den befinder sig samt at servoen ikke kan gå under et 850 millis delay eftersom vi også testede på 700 milisekunder og 500 milisekunder men jo kortere delay jo mindre præcis var bevægelsesgangen. teorien lyder at der ikke er nok volt for servoenn at arbejde med eftersom at servoenn skal bruge 5V og ESP8266 kun giver 3.3V men sjov og lærerig dag!
 
 # 31-09-2023
-i dag lavede vi et exampel på wifi på nodeMCUen. og lærte om at downloade libaries til platfromio.
+I dag lavede vi et exampel på wifi på nodeMCUen. og lærte om at downloade libaries til platfromio.
