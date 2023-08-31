@@ -9,9 +9,10 @@
 
 #include <ESP8266WiFi.h>
 
+
 #ifndef STASSID
-#define STASSID "Jamie"
-#define STAPSK "bunddatice"
+#define STASSID "Jamie" //phone hotspot name
+#define STAPSK "bunddatice" //phone hotspot code
 #endif
 
 const char* ssid = STASSID;
