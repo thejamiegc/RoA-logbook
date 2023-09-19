@@ -23,3 +23,18 @@ I dag lærte vi at bruge javacsg og legede lidt med 3d modulering
 
 # 07-09-2023
 I dag lavede vi en holder til den lille NodeMCU samme med Tobias og lavede vi en selv til den stor som vi 3dprinted restultatet må vi se på mandag.
+
+# 11-09-2023
+Vores holder til nodeMCU passede ikke helt og printet var ikke den bedst kvalitet da vi brugte en af de dårligere printer. 
+
+# 12-09-2023
+Vi som klasse started på vores overordnet projekt togbane og vi startede så på at lave en clicker ting som vi kunne bruge til at sætte skinder samme med.
+
+# 15-09-2023
+Vi/(Tobias med lidt hjælp fra os i klassen) forsat på clicker delen og dermed blev vist den iterative process i at arbejde med 3D print.
+
+# 19-09-2023
+vi lavede clicker delen færdig og kaldte den click-Connect fik som opgave til at lave en sej ting med den da min taske var i stykker tænkte kunne bruge den click-connect til at lave en erstatning til den ting der var gå i stykker på min taske som var låsen som lukker remmene der går henover brystet. 
+
+
+
