@@ -1,8 +1,8 @@
 #include <Arduino.h>
 #include "SimpleLED.h"
 
-SimpleLED led1(BUILTIN_LED,false,50,450);
-SimpleLED led2(LED_BUILTIN_AUX,false,50,950);
+SimpleLED led1(BUILTIN_LED,false,450,50);
+SimpleLED led2(LED_BUILTIN_AUX,false,950,50);
 
 
 void setup() {
