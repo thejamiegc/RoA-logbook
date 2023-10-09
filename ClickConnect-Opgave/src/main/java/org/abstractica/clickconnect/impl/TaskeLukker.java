@@ -13,7 +13,7 @@ public class TaskeLukker {
     public static void main(String[] args) {
         JavaCSG csg = JavaCSGFactory.createDefault();
 
-        Boolean isMale = false; //to switch between what part to make
+        Boolean isMale = true; //to switch between what part to make
         Double delta = 0.15;
         Geometry3D lock = csg.box3D(10, 30, 25, false);
         Geometry3D strapHolder = csg.box3D(10, 2, 20, false);
@@ -40,9 +40,11 @@ public class TaskeLukker {
             lock = csg.difference3D(lock, space);
         }
         //clicker
-        Geometry3D clickerHole = clicker.getLockedHoleCutout(30);
+        Geometry3D clickerHole = clicker.getLockedHoleCutout(2);
         clickerHole = csg.translate3DY(10).transform(clickerHole);
         lock = csg.difference3D(lock, clickerHole);
+
+        lock = csg.rotate3DY(csg.degrees(90)).transform(lock);
 
         csg.view(lock);
 
