@@ -57,6 +57,7 @@ Vi startede på at få stepo motoren til at virke. Vi løb ind i et problem med 
 I mens fik vi 3d printet et par dele og vi fik rettet dem til så de passede bedre sammen. Vi fik også kigget lidt mere på den måden vi skulle vi papvinen til at hælde op på ved at bruge snore i stedet for lave en form for krog med gear i som motoren kunne dreje. Det jo bedst at keep it simple stupid.  
 
 # 10-10-2023
+Vi forsat med at kigge på promblemet med stepo motoren og det tog det meste ad dagen men det viste sig at være fordi at stepper.run() ikke må være i et if statement af en eller anden grund. I mens forsatte vi også på 3d printen.
 
 # 13-10-2023
-
+Vi satte det hele sammen også selvom Tobias sagde det ikke ville virke så endte det med at virke. Dog mangler der en del til at holde papvinen hovedet nede. Hvilket vi printer mandagen efter ferien.
