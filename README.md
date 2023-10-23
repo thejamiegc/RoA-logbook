@@ -38,7 +38,7 @@ Vi som klasse started på vores overordnet projekt togbane og vi startede så p�
 Vi/(Tobias med lidt hjælp fra os i klassen) forsat på clicker delen og dermed blev vist den iterative process i at arbejde med 3D print.
 
 # 19-09-2023
-vi lavede clicker delen færdig og kaldte den click-Connect fik som opgave til at lave en sej ting med den da min taske var i stykker tænkte kunne bruge den click-connect til at lave en erstatning til den ting der var gå i stykker på min taske som var låsen som lukker remmene der går henover brystet. [clicker opgave](https://github.com/thejamiegc/RoA-logbook/tree/main/ClickConnect-Opgave)
+vi lavede clicker delen færdig og kaldte den click-Connect fik som opgave til at lave en sej ting med den da min taske var i stykker tænkte kunne bruge den click-connect til at lave en erstatning til den ting der var gå i stykker på min taske som var låsen som lukker remmene der går henover brystet. [Clicker opgave](https://github.com/thejamiegc/RoA-logbook/tree/main/ClickConnect-Opgave)
 
 # 22-09-2023
 Vi stoppede med at lave på tog banen og fik lov til at lave projekter i gruppe. Så vi brianstormede og fandt på at vi skulle lave en robot der hælder vin op i en kop fra wifi og stopper når den er fyldt.
