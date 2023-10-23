@@ -6,7 +6,7 @@ vi blev introduceret til node MCU og lidt c++ kode.
 vi har i dag lavet en SimpleLED class i c++.
 [SimpleLED](https://github.com/thejamiegc/RoA-logbook/tree/main/first%20nodemcu) 
 vi started på trafiklys projktet. 
-[trafiklys](https://github.com/thejamiegc/RoA-logbook/tree/main/TrafficLight_Project)
+[Trafiklys](https://github.com/thejamiegc/RoA-logbook/tree/main/TrafficLight_Project)
 
 # 28-08-2023 
 vi fik lavet første udkast til vores trafiklysprojekt. vi havde lidt en ide til hvordan den skulle laves og efter justeringer så kom vi frem til et svar vi godt vil snakke med tobias om i morgen til undervisningen. vi kom selv frem til løsningen og så ingen videoer eller guides. 
@@ -16,7 +16,7 @@ Vi lærte i dag om knepper (buttons) og hvordan vi skal sætte en class op til a
 
 # 30-08-2023
 Vi fik arbejdet på vores ServoMotor, testet forskellige teorier og kom til sidst i mål med at få lavet en class der i sidste ende blev ret plug-and-play til fremtidigt brug hvilket var godt! - herudover fandt vi ud af at man kan læse den præcise position hvor "armen" på servoen og hvor den befinder sig samt at servoen ikke kan gå under et 850 millis delay eftersom vi også testede på 700 milisekunder og 500 milisekunder men jo kortere delay jo mindre præcis var bevægelsesgangen. teorien lyder at der ikke er nok volt for servoenn at arbejde med eftersom at servoen skal bruge 5V og ESP8266 kun giver 3.3V men sjov og lærerig dag!
-[servo motor](https://github.com/thejamiegc/RoA-logbook/tree/main/Servo_Project)
+[Servo motor](https://github.com/thejamiegc/RoA-logbook/tree/main/Servo_Project)
 
 # 31-08-2023
 I dag lavede vi et exampel på wifi på nodeMCUen. og lærte om at downloade libaries til platfromio. Vi stødte på et sjov problem med at vi havde for meget modstand så at vi havde en LED der slukkede når vi havde begge LED tændt. 
@@ -42,6 +42,7 @@ vi lavede clicker delen færdig og kaldte den click-Connect fik som opgave til a
 
 # 22-09-2023
 Vi stoppede med at lave på tog banen og fik lov til at lave projekter i gruppe. Så vi brianstormede og fandt på at vi skulle lave en robot der hælder vin op i en kop fra wifi og stopper når den er fyldt.
+[Wineproject](https://github.com/thejamiegc/RoA-logbook/tree/main/Wineproject)
 
 # 26-09-2023
 Jeg var syg men gruppe gik i gang med at designe det 3d print vi skal bruge til projektet.
