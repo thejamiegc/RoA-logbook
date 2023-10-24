@@ -64,4 +64,4 @@ Vi forsat med at kigge på promblemet med stepo motoren og det tog det meste ad 
 Vi satte det hele sammen også selvom Tobias sagde det ikke ville virke så endte det med at virke. Dog mangler der en del til at holde papvinen hovedet nede. Hvilket vi printer mandagen efter ferien.
 
 # 23-10-2023
-vi printed den sidste del og vi satte det hele sammen og filmede en video af den der virker. [Videoer](https://github.com/thejamiegc/RoA-logbook/tree/main/Wineproject/Videos)
+vi printed den sidste del og vi satte det hele sammen og filmede en video af den der virker. Den bedste at se er final prototype demo [Videoer](https://github.com/thejamiegc/RoA-logbook/tree/main/Wineproject/Videos)
